@@ -1,9 +1,11 @@
 //
 // Created by Nilesh on 19-12-2022.
 //
-#include "stdio.h"
+#include "iostream"
+
+using namespace std;
 
 int main() {
-    printf("Hello world");
+    cout<<"Hello world!";
     return 0;
 }
